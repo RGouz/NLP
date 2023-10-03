@@ -10,6 +10,7 @@ Fun made Summarizer using google pegasus.
 
 ## Technologies 
 Project is created with:
+
 *python 3.8
 *pytorch 1.9
 
