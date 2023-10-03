@@ -6,8 +6,8 @@
 * [Setup](#setup)
 
 ## General Info 
-Fun made Summarizer using google pegasus.\
-a
+Fun made Abstractive Summarizer using google pegasus.\
+The output <u>summary</u> may not be optimal and maybe contain errors.
 
 
 ## Technologies 
