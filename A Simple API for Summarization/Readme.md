@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## General Info 
-Fun made Summarizer using google pegasus./n
+Fun made Summarizer using google pegasus.\
 a
 
 
