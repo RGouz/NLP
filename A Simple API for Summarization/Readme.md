@@ -1,14 +1,14 @@
-# A Simple API for Summarization H1
+# A Simple API for Summarization 
 
-## Table of contents H2
+## Table of contents 
 * [General Info](#general-Info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-## General Info H2
+## General Info 
 Fun made Summarizer using google.
 
-## Technologies H2
+## Technologies 
 Project is created with:
 
 
