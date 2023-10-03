@@ -1,2 +1,2 @@
 # NLP
-Natural Language Processing Tasks
+This repository contains some of my Natural Language Processing projects.
