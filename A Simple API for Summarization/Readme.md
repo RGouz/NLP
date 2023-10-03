@@ -6,7 +6,9 @@
 * [Setup](#setup)
 
 ## General Info 
-Fun made Summarizer using google pegasus.
+Fun made Summarizer using google pegasus./n
+a
+
 
 ## Technologies 
 Project is created with:
