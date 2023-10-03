@@ -6,10 +6,16 @@
 * [Setup](#setup)
 
 ## General Info 
-Fun made Summarizer using google.
+Fun made Summarizer using google pegasus.
 
 ## Technologies 
 Project is created with:
+python 3.8
+pytorch 1.9
 
-
-
+## Setup
+To run this project, install to your python enviroment:
+,,,
+pip install transformers
+pip install sentencepiece
+,,,
