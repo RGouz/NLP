@@ -15,7 +15,7 @@ pytorch 1.9
 
 ## Setup
 To run this project, install to your python enviroment:
-,,,
+'''
 pip install transformers
 pip install sentencepiece
-,,,
+'''
